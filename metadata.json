@@ -1,0 +1,6 @@
+
+{
+  "name": "TrainerPro",
+  "description": "Plataforma profesional de gestión de capacitaciones con dashboard de instructor, acceso por enlace/QR para empleados, seguimiento de progreso y generación automatizada de certificados PDF en modo nocturno.",
+  "requestFramePermissions": []
+}
